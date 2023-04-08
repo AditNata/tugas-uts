@@ -1,0 +1,20 @@
+body {
+    min-height: 2000px;
+    scroll-behavior:smooth;
+}
+.home {
+    padding-top: 6rem;
+    background-color: lightsalmon;
+}
+#gallery {
+    background-color: lightsalmon;
+}
+footer{
+    background-color: lightsalmon;
+}
+section {
+    padding-top: 5rem;
+}
+.class {
+    scroll-behavior:smooth;
+}
